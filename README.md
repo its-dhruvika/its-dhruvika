@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dhruvika&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Engineering%20intelligence%2C%20one%20model%20at%20a%20time.&descAlignY=58&descSize=18" width="100%"/>
+<!-- CUSTOM BANNER — designed by Dhruvika using Gemini -->
+<img src="https://raw.githubusercontent.com/its-dhruvika/its-dhruvika/main/coding_banner.png" width="100%" alt="Dhruvika - girl coder pixel art banner"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
