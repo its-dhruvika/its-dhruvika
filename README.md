@@ -4,14 +4,6 @@
 <!-- CUSTOM BANNER -->
 <img src="https://raw.githubusercontent.com/its-dhruvika/its-dhruvika/main/coding_banner.png.png" width="100%" alt="Dhruvika coding banner"/>
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dhruvika&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Engineering%20intelligence%2C%20one%20model%20at%20a%20time.&descAlignY=58&descSize=18" width="100%"/>
-
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&height=55&lines=ML+Engineer+%7C+Backend+Developer+%7C+DSA+%E2%9A%94%EF%B8%8F;300%2B+Problems+Solved+in+C%2B%2B+%F0%9F%94%A5;Building+AI+pipelines+that+actually+work+%F0%9F%A7%A0;Open+to+collaborate+%26+contribute+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=its-dhruvika&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
@@ -29,7 +21,6 @@
 Hi, I'm **Dhruvika** — a developer passionate about **Machine Learning**, **NLP**, and **Backend Engineering**. I love building things that are useful, learning in public, and contributing to open source. Always open to collaborating on interesting projects. 🚀
 
 - 🔭 Currently working on ML and NLP projects
-- ⚔️ Solved **300+ DSA problems** in C++ and still going
 - 🌱 Always learning something new
 - 💬 Ask me about Python, ML algorithms, or backend dev
 - ⚡ I enjoy turning messy data into useful predictions
