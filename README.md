@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<!-- CUSTOM BANNER -->
+
 <img src="https://raw.githubusercontent.com/its-dhruvika/its-dhruvika/main/coding_banner.png.png" width="100%" alt="Dhruvika coding banner"/>
 
 <br/>
