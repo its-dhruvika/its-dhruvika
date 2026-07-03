@@ -1,7 +1,5 @@
 
 <div align="center">
-
-
 <img src="https://raw.githubusercontent.com/its-dhruvika/its-dhruvika/main/coding_banner.png.png" width="100%" alt="Dhruvika coding banner"/>
 
 <br/>
@@ -17,7 +15,6 @@
 ---
 
 ## 🧠 About Me
-
 Hi, I'm **Dhruvika** — a developer passionate about **Machine Learning**, **NLP**, and **Backend Engineering**. I love building things that are useful, learning in public, and contributing to open source. Always open to collaborating on interesting projects. 🚀
 
 - 🔭 Currently working on ML and NLP projects
