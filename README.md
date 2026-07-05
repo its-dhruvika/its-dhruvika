@@ -59,12 +59,9 @@ Hi, I'm **Dhruvika** — a developer passionate about **Machine Learning**, **NL
 ![Regex](https://img.shields.io/badge/Regex-Advanced-DC143C?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
-
-
 ---
 
 ## 🔬 Featured Projects
-
 | 🚀 Project | 📌 Description | 🛠️ Stack |
 |:---|:---|:---|
 | 🤖 **AI Text Summarizer** | Python-based NLP summarization engine | Python, NLTK, Regex |
