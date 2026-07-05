@@ -81,8 +81,7 @@ Hi, I'm **Dhruvika** — a developer passionate about **Machine Learning**, **NL
 
 [![GitHub](https://img.shields.io/badge/GitHub-its--dhruvika-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/its-dhruvika)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/its-dhruvika)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajpurohitdhruvika5@gmail.com@gmail.com)
 <br/>
 
 </div>
@@ -95,7 +94,7 @@ Hi, I'm **Dhruvika** — a developer passionate about **Machine Learning**, **NL
 
 <sub>⚡ Built with intent. Trained on curiosity. Deployed with purpose.</sub>
 
-<!-- SNAKE ANIMATION -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/its-dhruvika/its-dhruvika/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/its-dhruvika/its-dhruvika/output/github-contribution-grid-snake.svg"/>
