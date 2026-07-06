@@ -9,7 +9,6 @@
 
 </div>
 
-
 ## 🧠 About Me
 Hi, I'm **Dhruvika** — a developer passionate about **Machine Learning**, **NLP**, and **Backend Engineering**. I love building things that are useful, learning in public, and contributing to open source. Always open to collaborating on interesting projects. 🚀
 
@@ -70,7 +69,6 @@ Hi, I'm **Dhruvika** — a developer passionate about **Machine Learning**, **NL
 | 📝 **Tech Blog CMS** | Full-stack content management system | Node.js, Express, SQLite, EJS |
 
 ---
-
 ## 🤝 Let's Connect
 
 <div align="center">
