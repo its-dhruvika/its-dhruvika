@@ -16,8 +16,6 @@ Hi, I'm **Dhruvika** — a developer passionate about **Machine Learning**, **NL
 - 🌱 Always learning something new
 - 💬 Ask me about Python, ML algorithms, or backend dev
 - ⚡ I enjoy turning messy data into useful predictions
-
-
 ## 🚀 Tech Stack
 
 <div align="center">
