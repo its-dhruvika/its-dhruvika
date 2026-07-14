@@ -1,10 +1,14 @@
 <div align="center">
+  
 <img src="https://raw.githubusercontent.com/its-dhruvika/its-dhruvika/main/coding_banner.png.png" width="100%" alt="Dhruvika coding banner"/>
+
 <br/>
 <img src="https://komarev.com/ghpvc/?username=its-dhruvika&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20To-Collaborate-brightgreen?style=flat-square" alt="Open to Collaborate"/>
 &nbsp;
+
 <img src="https://img.shields.io/badge/C%2B%2B-300%2B%20DSA%20Problems-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++ DSA"/>
 
 </div>
@@ -56,7 +60,6 @@ Hi, I'm **Dhruvika** — a developer passionate about **Machine Learning**, **NL
 ![Regex](https://img.shields.io/badge/Regex-Advanced-DC143C?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
----
 
 ## 🔬 Featured Projects
 | 🚀 Project | 📌 Description | 🛠️ Stack |
@@ -66,7 +69,6 @@ Hi, I'm **Dhruvika** — a developer passionate about **Machine Learning**, **NL
 | 🎓 **Student Performance Predictor** | ML model to predict academic outcomes | Python, Scikit-Learn, Matplotlib |
 | 📝 **Tech Blog CMS** | Full-stack content management system | Node.js, Express, SQLite, EJS |
 
----
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -81,11 +83,7 @@ Hi, I'm **Dhruvika** — a developer passionate about **Machine Learning**, **NL
 <br/>
 
 </div>
-
----
-
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 <sub>⚡ Built with intent. Trained on curiosity. Deployed with purpose.</sub>
