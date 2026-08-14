@@ -34,7 +34,6 @@ Hi, I'm **Dhruvika** — a developer passionate about **Machine Learning**, **NL
 
 ### ⚔️ DSA & Competitive Programming
 ![C++](https://img.shields.io/badge/C%2B%2B-DSA%20Language-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-300%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![STL](https://img.shields.io/badge/STL-Mastered-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-Graphs%20%7C%20DP%20%7C%20Trees-9B59B6?style=for-the-badge)
 
