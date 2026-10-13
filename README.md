@@ -1,14 +1,10 @@
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/its-dhruvika/its-dhruvika/main/coding_banner.png.png" width="100%" alt="Dhruvika coding banner"/>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=its-dhruvika&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
-
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20To-Collaborate-brightgreen?style=flat-square" alt="Open to Collaborate"/>
 &nbsp;
-
-
 
 
 
