@@ -5,9 +5,6 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20To-Collaborate-brightgreen?style=flat-square" alt="Open to Collaborate"/>
 &nbsp;
-
-
-
 </div>
 
 ## 🧠 About Me
